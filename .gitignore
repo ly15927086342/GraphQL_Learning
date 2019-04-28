@@ -1,0 +1,4 @@
+# 忽略static/
+
+node_modules/*
+
